@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>App</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../CSS/style.css">
 </head>
 <body>
     <form action="plan.php" method="get" id="home">
@@ -37,5 +37,5 @@
         </table>
     </form>
 </body>
-<script src="script.js"></script>
+<script src="../JS/script.js"></script>
 </html>
